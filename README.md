@@ -59,7 +59,7 @@ So here you see that in addition to the original picture.jpg three sizes were ge
 
 ### Installing Regenerate Thumbnails plugin
 
-Install the Regenerate Thumbnails plugin by Viper007Bond and activate it. [![search_regenr_thumb](https://make.wordpress.org/training/files/2016/07/search_regenr_thumb.png)](https://make.wordpress.org/training/files/2016/07/search_regenr_thumb.png) [tip]Note that in real life settings before adding and activating a new plugin, we recommend making a backup of your WordPress site. [/tip]
+Install the Regenerate Thumbnails plugin by Viper007Bond and activate it. [![search_regenr_thumb](/images/search_regenr_thumb.png)](/images/search_regenr_thumb.png) [tip]Note that in real life settings before adding and activating a new plugin, we recommend making a backup of your WordPress site. [/tip]
 
 ### Regenerating Thumbnails For All Media
 
