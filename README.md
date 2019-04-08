@@ -69,7 +69,7 @@ Install the Regenerate Thumbnails plugin by Viper007Bond and activate it. [![sea
 
 #### Edit media settings
 
-1\. Now edit the media settings of your images. Go to **Settings > Media** section and change the Thumbnail settings to 200x200 and Medium size to 400x200\. Choose to save the changes. [![Selection_054](https://make.wordpress.org/training/files/2015/12/Selection_054.png)](https://make.wordpress.org/training/files/2015/12/Selection_054.png) 2\. Edit the previously created post and add a new thumbnail-sized image there. You will notice the old pictures are still left in the dimensions they were in, while the new one is sized as expected with the new theme's requirements, which is 50 pixels bigger in both dimensions. [![Selection_055](https://make.wordpress.org/training/files/2015/12/Selection_055.png)](https://make.wordpress.org/training/files/2015/12/Selection_055.png)
+1\. Now edit the media settings of your images. Go to **Settings > Media** section and change the Thumbnail settings to 200x200 and Medium size to 400x200\. Choose to save the changes. [![Selection_054](images/Selection_054.png)](images/Selection_054.png) 2\. Edit the previously created post and add a new thumbnail-sized image there. You will notice the old pictures are still left in the dimensions they were in, while the new one is sized as expected with the new theme's requirements, which is 50 pixels bigger in both dimensions. [![Selection_055](https://make.wordpress.org/training/files/2015/12/Selection_055.png)](https://make.wordpress.org/training/files/2015/12/Selection_055.png)
 
 #### Enforce regenerating thumbnails
 
