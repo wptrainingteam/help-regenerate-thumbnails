@@ -1,4 +1,4 @@
-# Help Regenerate Thumbnails
+# Regenerate Thumbnails
 
 ## Description
 
